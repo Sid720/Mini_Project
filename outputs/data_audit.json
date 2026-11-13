@@ -1,0 +1,8 @@
+{
+  "raw_rows": 1067371,
+  "missing_required_removed": 243007,
+  "cancellations_nonpositive_removed": 18815,
+  "exact_duplicates_removed": 26124,
+  "clean_rows": 779425,
+  "customers": 5878
+}

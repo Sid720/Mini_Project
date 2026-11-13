@@ -1,0 +1,13 @@
+{
+  "selected_model": "random_forest",
+  "selection_rule": "Mean validation precision at 20% contact capacity",
+  "source_url": "https://archive.ics.uci.edu/static/public/502/online+retail+ii.zip",
+  "workbook_sha256": "bcbe73b35f5b7babf197fb0cb983a11f5d9ff929078d4aa53d171b1f2df2e980",
+  "seed": 42,
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "sklearn": "1.8.0",
+  "observation_end_exclusive": "2011-12-09 00:00:00",
+  "feature_window_days": 180,
+  "label_horizon_days": 30
+}
